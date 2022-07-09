@@ -4,8 +4,8 @@ Allows for communication between Computer and User. Chatbot interprets and proce
 
 ## Features
 
-If you write "hello","howdy" or "dog" the Chatbot will give you a response.
-For the dog response, a different picture will follow up every time the dog keyword is found.
+* If you write "hello","howdy" or "dog" the Chatbot will give you a response.
+* For the dog response, a different picture will follow up every time the dog keyword is found.
 
 ## Why choose the Chatbot?
 
